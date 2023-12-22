@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "Weathering App",
+    "description": "A sleek and responsive weather app built with React.js, providing real-time weather updates with an intuitive user interface and dynamic animations.",
+    "hoster": "Github",
+    "demo_url": "https://paulilay.github.io/Weathering-App/",
+    "hoster_url": "https://github.com/Paulilay/Weathering-App",
+    "thumbnail_url": "./images/projects/weatheringapp.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Note App",
+    "description": "A minimalist note-taking app offering a seamless user experience for capturing and organizing your thoughts effortlessly.",
+    "hoster": "GitHub",
+    "demo_url": "https://paulilay.github.io/Note-App/",
+    "hoster_url": "https://github.com/Paulilay/Note-App",
+    "thumbnail_url": "./images/projects/noteapp.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Typing Speed Game",
+    "description": "Experience the thrill of speed typing in this engaging racing game challenging users to improve their typing skills against the clock.",
+    "hoster": "GitHub",
+    "demo_url": "https://paulilay.github.io/Typing-Speed-Game/",
+    "hoster_url": "https://github.com/Paulilay/Typing-Speed-Game",
+    "thumbnail_url": "./images/projects/typinggame.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Calculator",
+    "description": "A user-friendly calculator app designed for efficiency and ease of use, enabling quick and accurate mathematical calculations with a sleek interface.",
+    "hoster": "GitHub",
+    "demo_url": "https://paulilay.github.io/Calculator/",
+    "hoster_url": "https://github.com/Paulilay/Calculator",
+    "thumbnail_url": "./images/projects/calculator.jpg"
+  },
+  {
+    "id": 5,
+    
+    "name": "Rock Paper Scissors Game",
+    "description": "Dive into the classic game of strategy and luck with this engaging app, featuring a user-friendly interface and animated gameplay for the ultimate rock-paper-scissors experience.",
+    "hoster": "Github",
+    "demo_url": "https://paulilay.github.io/Rock-Paper-Scissors/",
+    "hoster_url": "https://github.com/Paulilay/Rock-Paper-Scissors",
+    "thumbnail_url": "./images/projects/rps.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Wordle",
+    "description": "Sharpen your word-guessing skills and unravel the mystery word with this addictive and visually appealing game app, combining strategy and vocabulary in a thrilling challenge.",
+    "hoster": "GitHub",
+    "demo_url": "https://paulilay.github.io/Wordle/",
+    "hoster_url": "https://github.com/Paulilay/Wordle",
+    "thumbnail_url": "./images/projects/wordle.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Discord Clone Website",
+    "description": "Showcasing my HTML and CSS proficiency, this website replicates the essence of Discord, providing an aesthetically pleasing and fully functional user interface for seamless text and voice communication.",
+    "hoster": "Github",
+    "demo_url": "https://paulilay.github.io/Discord-Website-Clone/",
+    "hoster_url": "https://github.com/Paulilay/Discord-Website-Clone",
+    "thumbnail_url": "./images/projects/disc-bg.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Music App",
+    "description": "Crafted with Python on Replit, this music app allows the user to view, add, update and delete songs in a database.",
+    "hoster": "Replit",
+    "demo_url": "https://replit.com/@paulaldwincorte/Music-App?v=1",
+    "hoster_url": "https://replit.com/@paulaldwincorte/Music-App",
+    "thumbnail_url": "./images/projects/musicapp.png"
+  },
+  {
+    "id": 9,
+    "name": "FilmFlix",
+    "description": "Crafted with Python on Replit, this film app allows the user to view, add, update and delete films in a database.",
+    "hoster": "Replit",
+    "demo_url": "https://replit.com/@paulaldwincorte/FilmFlix-App?v=1",
+    "hoster_url": "https://replit.com/@paulaldwincorte/FilmFlix-App",
+    "thumbnail_url": "./images/projects/filmflix.gif"
+  }
+]

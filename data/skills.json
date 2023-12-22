@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "HTML",
+    "title_img": "./images/skills/html.png",
+    "description": "I utilize HTML as the foundational language for my web projects, crafting structured and accessible content to seamlessly convey information and ensure a user-friendly experience across various platforms."
+  },
+  {
+    "id": 2,
+    "title": "CSS",
+    "title_img": "./images/skills/css.png",
+    "description": "I harness the power of CSS to sculpt and enhance the visual appeal of my web projects, ensuring a seamless and engaging user experience through meticulous styling and design precision."
+  },
+  {
+    "id": 3,
+    "title": "JavaScript",
+    "subtitle": "./images/skills/jsimg.png",
+    "description": "I leverage the versatility of JavaScript to breathe life into my web applications, enabling dynamic interactivity and responsiveness that captivates users and enhances the overall functionality of my projects"
+  },
+  {
+    "id": 4,
+    "title": "Python",
+    "title_img": "./images/skills/python.png",
+    "description": "I choose Python for its versatility and readability, enabling me to develop robust and scalable solutions across diverse domains, from web development to data science, with an emphasis on simplicity and productivity."
+  },
+  {
+    "id": 5,
+    "title": "React JS",
+    "title_img": "./images/skills/reactjs.png",
+    "description": "I harness the power of React.js to build interactive and efficient user interfaces, streamlining the development process and delivering seamless, component-based web applications with enhanced performance and user experience."
+  },
+  {
+    "id": 6,
+    "title": "SQL",
+    "title_img": "./images/skills/sql.png",
+    "description": "I utilize SQL to efficiently manage and query databases, ensuring the seamless organization, retrieval, and manipulation of data for my applications, with a focus on reliability and structured data management."
+  }
+]
