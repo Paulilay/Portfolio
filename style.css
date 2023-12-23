@@ -549,13 +549,23 @@ p {
   transform: scale(1.3);
 }
 
-@media (min-width: 600px) {
+@media (min-width: 700px) {
   #projects .contents {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  #projects .contents .product .desc {
+  font-size: 15px;
+  line-height: 15px;
+  text-align: center;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  }
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1000px) {
   #projects {
     padding: 40px 0;
   }
@@ -568,6 +578,8 @@ p {
     grid-template-columns: repeat(3, 1fr);
   }
 }
+
+
 /* ============== Contact ============== */
 #contact {
   padding: 20px 0;
